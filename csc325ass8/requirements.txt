@@ -1,0 +1,6 @@
+# Test runner used by the Test stage in .github/workflows/csc325_ci_cd.yml
+pytest>=8.0
+ 
+# Add your app's packages below, e.g. a web framework from the tutorial:
+# flask>=3.0
+# gunicorn>=22.0
